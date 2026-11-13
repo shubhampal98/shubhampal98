@@ -81,7 +81,6 @@ A B2B marketplace.
  
 - AI agents, MCP servers and agent skills for real engineering workflows
 - Observability for frontend apps with OpenTelemetry and the Grafana stack
-- Docker and containerised development
 ---
  
 ## 🤝 Let's Connect
